@@ -1,3 +1,8 @@
-# Example_config
+# Forked from Example_config
 
-This can be used as an example custom config for NvChad, this branch is a minimal one. Do check the feature_full branch if you need all the ease in your config.
+This repo is forked from **NvChad/example_config**
+to add my custom configs into NvChad.
+
+
+- added rust stuff.
+- changed the default color to gruvbox.
